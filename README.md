@@ -71,7 +71,7 @@ This dashboard provides human resources leaders and executive management with a 
 ## 🛠️ Built With
 
 * **BI Tool:** Microsoft Power BI Desktop
-* **Data Transformations:** Power Query (M Code)
+* **Data Transformations:** Power Query 
 * **Calculations:** DAX (Data Analysis Expressions) for KPIs, ratios, and averages
 * **Theme:** Custom dark UI layout with high-contrast KPI cards[cite: 1]
 
