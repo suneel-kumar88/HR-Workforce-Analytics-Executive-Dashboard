@@ -2,13 +2,13 @@
 
 After learning and practicing Power BI, I’m excited to share my project: **HR & Workforce Analytics Executive Dashboard**!
 
-An interactive Power BI executive dashboard designed to monitor workforce demographics, employee performance, compensation distribution, attendance, and leave balances across organizational departments and designations[cite: 1].
+An interactive Power BI executive dashboard designed to monitor workforce demographics, employee performance, compensation distribution, attendance, and leave balances across organizational departments and designations.
 
 ---
 
 ## 📌 Dashboard Overview
 
-![HR & Workforce Analytics Executive Dashboard](https://github.com/suneel-kumar88/HR-Workforce-Analytics-Executive-Dashboard/raw/9210f4a95c31e7e7e4680023462ad772ee18d20d/HR%20%26%20Workforce%20Dashboard.png)[cite: 1]
+![HR & Workforce Analytics Executive Dashboard](https://github.com/suneel-kumar88/HR-Workforce-Analytics-Executive-Dashboard/raw/main/HR%20%26%20Workforce%20Dashboard.png)[cite: 1]
 
 This dashboard provides human resources leaders and executive management with a centralized view of key workforce metrics to support data-driven decision-making around compensation, performance appraisal, and resource allocation.
 
@@ -83,11 +83,15 @@ This dashboard provides human resources leaders and executive management with a 
 ├── HR_Workforce_Executive_Dashboard.pbix
 ├── HR & Workforce Dashboard.png
 └── README.md
+👤 Author
+Suneel Kumar
 
-## 👤 Author
+Aspiring Data Analyst | Power BI | Advanced Excel | SQL 
 
-**Suneel Kumar**  
-*Aspiring Data Analyst | Power BI | Advanced Excel*
+📧 Email: suneel.kr8810@gmail.com
 
-* 📌 **GitHub:** [suneel-kumar88](https://github.com/suneel-kumar88)
-* 📌 **LinkedIn:** [suneel-kumar-5545a1436](https://www.linkedin.com/in/suneel-kumar-5545a1436/)
+🔗 GitHub: [suneel-kumar88](https://github.com/suneel-kumar88)
+
+🔗 LinkedIn: [Suneel Kumar](https://www.linkedin.com/in/suneel-kumar-5545a1436/)
+
+
